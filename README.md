@@ -4,4 +4,4 @@
 ✔ Use Spark SQL for querying and comparing performance with MongoDB Aggregation Framework. \
 ✔ Optimize performance using indexing, sharding, and partitioning in MongoDB. \
 ✔ Present key insights with visualizations (Matplotlib, Seaborn, or another tool). \
-✔ Submit a final GitHub repository showcasing the full implementation with visible contributions from all team members.\
+✔ Submit a final GitHub repository showcasing the full implementation with visible contributions from all team members.
